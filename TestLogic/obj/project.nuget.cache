@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pzKVPRv3ulrh3tXT7HclarSA7lmyihG/yOe4eTuUzVmjSTwruaTTyZU8xzULtW1B8J5LEm/dJfTFKM0Wto4yXg==",
+  "success": true,
+  "projectFilePath": "E:\\Codigos\\TestApi\\TestLogic\\TestLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\c-sar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\c-sar\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\c-sar\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\c-sar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
