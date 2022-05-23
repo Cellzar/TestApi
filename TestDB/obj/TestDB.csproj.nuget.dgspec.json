@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Codigos\\TestApi\\TestDB\\TestDB.csproj": {}
+    "E:\\Codigos\\Test\\TestApi\\TestDB\\TestDB.csproj": {}
   },
   "projects": {
-    "E:\\Codigos\\TestApi\\TestDB\\TestDB.csproj": {
+    "E:\\Codigos\\Test\\TestApi\\TestDB\\TestDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Codigos\\TestApi\\TestDB\\TestDB.csproj",
+        "projectUniqueName": "E:\\Codigos\\Test\\TestApi\\TestDB\\TestDB.csproj",
         "projectName": "TestDB",
-        "projectPath": "E:\\Codigos\\TestApi\\TestDB\\TestDB.csproj",
+        "projectPath": "E:\\Codigos\\Test\\TestApi\\TestDB\\TestDB.csproj",
         "packagesPath": "C:\\Users\\c-sar\\.nuget\\packages\\",
-        "outputPath": "E:\\Codigos\\TestApi\\TestDB\\obj\\",
+        "outputPath": "E:\\Codigos\\Test\\TestApi\\TestDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

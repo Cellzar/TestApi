@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mkZ22RTUeh9iDxFyNomKr8i/8nKs5+K9tFXC3pKNkIKMJPcGR0Nf/Zk5PfdEnvkQEJVsFI6irD4706ViakiVjQ==",
+  "dgSpecHash": "3sK0GK6xSVWBUI8xAm6C2gEpCUK4FBdM4ILUVYQMHJGEWe1Q9FR+GMDZdC8GGZ5EuLL7mPZgLdqE/sVdWPwdBg==",
   "success": true,
-  "projectFilePath": "E:\\Codigos\\TestApi\\TestApi\\TestApi.csproj",
+  "projectFilePath": "E:\\Codigos\\Test\\TestApi\\TestApi\\TestApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c-sar\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\c-sar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

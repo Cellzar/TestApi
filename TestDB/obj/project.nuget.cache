@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dGB2tAlwCLEBDCXcZSjRkqvgBUklDLT9Md71EGIflY0vLPkWab6b++h8F/RTpcaPqzLBOki59vtu92HNV792RA==",
+  "dgSpecHash": "O6VP4hYcBBowdZg40UmHSau+8JirFdSWDD4C0BsAtpOYzT9TbA7qdmvkQgB9Zv+Wre40C3BAAxOW3x/890z3gQ==",
   "success": true,
-  "projectFilePath": "E:\\Codigos\\TestApi\\TestDB\\TestDB.csproj",
+  "projectFilePath": "E:\\Codigos\\Test\\TestApi\\TestDB\\TestDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c-sar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\c-sar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

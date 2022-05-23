@@ -10,3 +10,15 @@ E:\Codigos\TestApi\TestLogic\obj\Debug\net5.0\TestLogic.dll
 E:\Codigos\TestApi\TestLogic\obj\Debug\net5.0\refint\TestLogic.dll
 E:\Codigos\TestApi\TestLogic\obj\Debug\net5.0\TestLogic.pdb
 E:\Codigos\TestApi\TestLogic\obj\Debug\net5.0\ref\TestLogic.dll
+E:\Codigos\Test\TestApi\TestLogic\bin\Debug\net5.0\TestLogic.deps.json
+E:\Codigos\Test\TestApi\TestLogic\bin\Debug\net5.0\TestLogic.dll
+E:\Codigos\Test\TestApi\TestLogic\bin\Debug\net5.0\ref\TestLogic.dll
+E:\Codigos\Test\TestApi\TestLogic\bin\Debug\net5.0\TestLogic.pdb
+E:\Codigos\Test\TestApi\TestLogic\obj\Debug\net5.0\TestLogic.csproj.AssemblyReference.cache
+E:\Codigos\Test\TestApi\TestLogic\obj\Debug\net5.0\TestLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos\Test\TestApi\TestLogic\obj\Debug\net5.0\TestLogic.AssemblyInfoInputs.cache
+E:\Codigos\Test\TestApi\TestLogic\obj\Debug\net5.0\TestLogic.AssemblyInfo.cs
+E:\Codigos\Test\TestApi\TestLogic\obj\Debug\net5.0\TestLogic.csproj.CoreCompileInputs.cache
+E:\Codigos\Test\TestApi\TestLogic\obj\Debug\net5.0\TestLogic.dll
+E:\Codigos\Test\TestApi\TestLogic\obj\Debug\net5.0\ref\TestLogic.dll
+E:\Codigos\Test\TestApi\TestLogic\obj\Debug\net5.0\TestLogic.pdb

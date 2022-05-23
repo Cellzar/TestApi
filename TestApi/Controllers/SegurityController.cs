@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
@@ -19,6 +20,7 @@ namespace TestApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [Authorize]
     public class SegurityController : ControllerBase
     {
         private readonly IOptions<Urls> _config;

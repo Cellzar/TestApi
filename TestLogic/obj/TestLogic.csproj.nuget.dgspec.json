@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Codigos\\TestApi\\TestLogic\\TestLogic.csproj": {}
+    "E:\\Codigos\\Test\\TestApi\\TestLogic\\TestLogic.csproj": {}
   },
   "projects": {
-    "E:\\Codigos\\TestApi\\TestLogic\\TestLogic.csproj": {
+    "E:\\Codigos\\Test\\TestApi\\TestLogic\\TestLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Codigos\\TestApi\\TestLogic\\TestLogic.csproj",
+        "projectUniqueName": "E:\\Codigos\\Test\\TestApi\\TestLogic\\TestLogic.csproj",
         "projectName": "TestLogic",
-        "projectPath": "E:\\Codigos\\TestApi\\TestLogic\\TestLogic.csproj",
+        "projectPath": "E:\\Codigos\\Test\\TestApi\\TestLogic\\TestLogic.csproj",
         "packagesPath": "C:\\Users\\c-sar\\.nuget\\packages\\",
-        "outputPath": "E:\\Codigos\\TestApi\\TestLogic\\obj\\",
+        "outputPath": "E:\\Codigos\\Test\\TestApi\\TestLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

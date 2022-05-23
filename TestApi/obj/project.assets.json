@@ -5831,11 +5831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Codigos\\TestApi\\TestApi\\TestApi.csproj",
+      "projectUniqueName": "E:\\Codigos\\Test\\TestApi\\TestApi\\TestApi.csproj",
       "projectName": "TestApi",
-      "projectPath": "E:\\Codigos\\TestApi\\TestApi\\TestApi.csproj",
+      "projectPath": "E:\\Codigos\\Test\\TestApi\\TestApi\\TestApi.csproj",
       "packagesPath": "C:\\Users\\c-sar\\.nuget\\packages\\",
-      "outputPath": "E:\\Codigos\\TestApi\\TestApi\\obj\\",
+      "outputPath": "E:\\Codigos\\Test\\TestApi\\TestApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5856,11 +5856,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Codigos\\TestApi\\TestDB\\TestDB.csproj": {
-              "projectPath": "E:\\Codigos\\TestApi\\TestDB\\TestDB.csproj"
+            "E:\\Codigos\\Test\\TestApi\\TestDB\\TestDB.csproj": {
+              "projectPath": "E:\\Codigos\\Test\\TestApi\\TestDB\\TestDB.csproj"
             },
-            "E:\\Codigos\\TestApi\\TestLogic\\TestLogic.csproj": {
-              "projectPath": "E:\\Codigos\\TestApi\\TestLogic\\TestLogic.csproj"
+            "E:\\Codigos\\Test\\TestApi\\TestLogic\\TestLogic.csproj": {
+              "projectPath": "E:\\Codigos\\Test\\TestApi\\TestLogic\\TestLogic.csproj"
             }
           }
         }
